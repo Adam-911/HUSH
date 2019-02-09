@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HUSH/Scenes/MainMenu.unity
+    guid: 019a0b3e8243d9040baf16ab3d5fff40
+  - enabled: 1
+    path: Assets/HUSH/Scenes/Start.unity
+    guid: fc71ba1c2c7a01e41af75c49fc26659f
